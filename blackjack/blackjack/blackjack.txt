@@ -1,0 +1,10 @@
+Jovan 850 1700 
+Filip 950 1900 
+Strahinja 1200 2400 
+Andjelija 550 1100 
+Dusan 500 1000 
+Luka 350 700 
+Sale 500 1000 
+Vuk 150 300 
+Mateja 500 1000 
+Bogdan 1000 2000 

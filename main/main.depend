@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1686002215 source:c:\users\stral\onedrive\desktop\gameverse project\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<process.h>
+	<stdbool.h>
+	<math.h>
+

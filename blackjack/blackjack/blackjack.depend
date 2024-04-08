@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685636069 source:c:\users\stral\onedrive\desktop\gameverse project\blackjack\blackjack\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<process.h>
+	<windows.h>
+
